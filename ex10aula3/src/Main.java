@@ -1,3 +1,4 @@
+//ex10aula3 Italo trindade
 import java.util.Scanner;
 
 public class Main {
